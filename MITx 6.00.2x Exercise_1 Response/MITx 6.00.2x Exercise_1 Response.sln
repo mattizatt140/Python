@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MITx 6.00.2x Exercise_1 Response", "MITx 6.00.2x Exercise_1 Response.pyproj", "{4309C6F0-7953-4D21-8CD3-964E699E2861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4309C6F0-7953-4D21-8CD3-964E699E2861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4309C6F0-7953-4D21-8CD3-964E699E2861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E128A752-124A-48AA-BBFC-E3D75C0580F9}
+	EndGlobalSection
+EndGlobal

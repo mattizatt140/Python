@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Credit Card Interest Payment", "Credit Card Interest Payment\Credit Card Interest Payment.pyproj", "{7DEDAE75-2746-45B6-B1CB-BDB2FEB001BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DEDAE75-2746-45B6-B1CB-BDB2FEB001BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DEDAE75-2746-45B6-B1CB-BDB2FEB001BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBCC8695-F01A-437A-838A-DADBC3152762}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Unique Values in a Dictionary", "Unique Values in a Dictionary\Unique Values in a Dictionary.pyproj", "{6631E05B-2A0D-4C98-937A-E85FFC45A15E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6631E05B-2A0D-4C98-937A-E85FFC45A15E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6631E05B-2A0D-4C98-937A-E85FFC45A15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ECA5F96-CBE6-48D4-921D-33850A73E2F7}
+	EndGlobalSection
+EndGlobal
